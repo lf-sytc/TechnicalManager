@@ -1,6 +1,7 @@
 # iOS TechnicalManager
 
-工作职能：
+# 工作职能：
+
 1. 技术建设
 2. 团队建设
 
